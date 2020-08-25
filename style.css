@@ -20,3 +20,8 @@
     --color-small-info: #C1BCCC;
     font-size: 60%; /* Controle das medidas rem */
 }
+
+body {
+    background-color: var(--color-background);
+
+}
