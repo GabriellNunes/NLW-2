@@ -20,8 +20,18 @@
     --color-small-info: #C1BCCC;
     font-size: 60%; /* Controle das medidas rem */
 }
+/*
+#container {
+     border: 1px solid red;
+     padding: 40px;
+     margin: 60px
+     width:
+     height:
+}
+*/
 
 body {
     background-color: var(--color-background);
-
+    display: flex;
+    
 }
