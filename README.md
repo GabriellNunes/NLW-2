@@ -1,2 +1,2 @@
-# Studdy - Plataforma de Aulas Online
-  Desenvolvimento da Plataforma Studdy, para aulas online. 
+# Proffy - Plataforma de Aulas Online
+  Este é um projeto de teste da semana NLW-2 da Rocketseat. 
