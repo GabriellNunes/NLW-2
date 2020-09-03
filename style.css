@@ -23,7 +23,7 @@
 
 
 #container {
-     border: 1px solid red;
+     /*border: 1px solid red;*/
      padding: 40px;
      margin: 60px;
 
@@ -35,5 +35,21 @@
 body {
     background-color: var(--color-background);
     display: flex;  
+}
+
+body, 
+input,
+button,
+textarea {
+     /*font: 500 1.6rem Poppins;*/
+     font-weight: 500;
+     font-family: poppins;
+     font-size: 1.6rem;
+     color: var(--color-text-base); 
+}
+
+#container {
+    width:90vw;
+    max-width: 700px;
     
 }
