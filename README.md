@@ -1,2 +1,2 @@
-# NLW#2
- Evento Semanal da Rocketseat 
+# Studdy - Plataforma de Aulas Online
+  Desenvolvimento da Plataforma Studdy, para aulas online. 
