@@ -35,6 +35,7 @@
 body {
     background-color: var(--color-background);
     display: flex;  
+    justify-content: center;
 }
 
 body, 
